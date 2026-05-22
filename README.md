@@ -7,7 +7,7 @@ HomeMart is a web application for home appliances and household products, design
 
 - Frontend: React, Vite, TailwindCSS, Axios, React Router
 - Backend: Node.js, Express.js
-- Database: MySQL with the `mysql2` package
+- Database: MySQL 
 
 ## Project Structure
 
